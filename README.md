@@ -1,5 +1,5 @@
 # PythonProject
-My work was the ANN. I have included the explanation of the ANN below from our coursework. I did not create any of the rest of the code in this workbook and thus will not be including any explanation of those parts. 
+My work was the ANN. I have included the explanation of the ANN below from our coursework. I did not create any of the rest of the code in this workbook and thus will not be including any explanation of those parts. Please note the ANN portion of the notebook is at the very END.
 
 --The Following is an excerpt.--
 ## ANN
